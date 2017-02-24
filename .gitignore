@@ -1,0 +1,9 @@
+# ignore directories
+build/
+
+# ignore extensions
+*.idb
+*.so
+*.sdf
+*.db
+*.opendb
